@@ -1,5 +1,4 @@
-
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=794EF7&random=false&width=435&lines=FORK+THIS+REPOSITORY+AND+USE+(FREE))](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=794EF7&random=false&width=435&lines=FORK+THIS+REPOSITORY+AND+USE+(FREE))](https://git.io/typing-svg) 
 
 ## `DECLAIMER`
 
@@ -16,7 +15,7 @@
  4. loader secton, <br><br>
  5. Notification (in development),<br><br>
  6. sidebar where we're trying to add
-  more things in future </p>
+  more things in future <br> 7. MOST UNIQUE FEATURE IS DELETE (SUSPEND) ANY ACCOUNT AND LOCK GROUP NAME</p>
 <br><br>
 
 
@@ -42,8 +41,18 @@
 <a href='https://github.com/hackesofice/SavingFromFormData/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=sky-blue'></a> 
 
 **STEP 2 ==> CHOOSE DEPLOYMENT OPTION**
-<p>Yau are able to deploy this tool in many platefors like- <br>1. REPLIT <br>2. RENDER <br> 3. KOYEB <br> 4. HEROKU <br>5. TERMUX <br>6. PC</p>
+<p>Yau are able to deploy this tool in many platefors like- <br>1. KOYEB <br>2. RENDER <br> 3. REPLIT <br> 4. HEROKU <br>5. TERMUX <br>6. PC</p>
 
+
+**DEPLOY OPTION 1 (KOYEB)** <br>
+*Step 1* <br>
+[![Sign Up to Koyeb](https://via.placeholder.com/150x50.png?text=Sign+Up+to+Koyeb)](https://app.koyeb.com/auth/signup) <br>
+
+*Step 2* <br>
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://connectify-beige.vercel.app/) 
+
+
+<br><br>
 **DEPLOY ON TERMUX**
 
 ```
